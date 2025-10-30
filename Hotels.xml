@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+
+  <!-- Example hotel -->
+  <Hotel Rating="4.2">
+    <Name>Westin</Name>
+    <Phone>480-968-8885</Phone>
+    <Phone>800-937-8461</Phone>
+    <Address NearestAirport="Sky Harbor">
+      <Number>11</Number>
+      <Street>E.7th St</Street>
+      <City>Tempe</City>
+      <State>AZ</State>
+      <Zip>85281</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 1 -->
+  <Hotel Rating="4.2">
+    <Name>Arizona Biltmore</Name>
+    <Phone>855-605-0316</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>2400</Number>
+      <Street>E. Missouri Avenue</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85016</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 2 -->
+  <Hotel Rating="4.3">
+    <Name>Westin Kierland</Name>
+    <Phone>844-631-0595</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>6902</Number>
+      <Street>E. Greenway Parkway</Street>
+      <City>Scottsdale</City>
+      <State>AZ</State>
+      <Zip>85254</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 3 -->
+  <Hotel Rating="4.3">
+    <Name>Sheraton Phx Downtown</Name>
+    <Phone>844-631-0595</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>340</Number>
+      <Street>N. 3rd St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 4 -->
+  <Hotel>
+    <Name>Arizona Grand Resort</Name>
+    <Phone>855-303-3288</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>8000</Number>
+      <Street>S. Arizona Grand Parkway</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85044</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 5 -->
+  <Hotel Rating="4.3">
+    <Name>Rise Uptown Hotel</Name>
+    <Phone>602-266-6000</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>400</Number>
+      <Street>W. Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85013</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 6 -->
+  <Hotel>
+    <Name>Hotel San Carlos</Name>
+    <Phone>602-254-5100</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>202</Number>
+      <Street>N. Central Ave</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 7 -->
+  <Hotel Rating="4.5">
+    <Name>Royal Palms Resort</Name>
+    <Phone>602-878-9694</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>5200</Number>
+      <Street>E. Camelback Rd</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85018</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 8 -->
+  <Hotel>
+    <Name>Hilton Garden Inn</Name>
+    <Phone>855-618-4697</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>15</Number>
+      <Street>E. Monroe St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 9 -->
+  <Hotel Rating="3.7">
+    <Name>Cambria Hotel</Name>
+    <Phone>602-755-3690</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>222</Number>
+      <Street>E. Portland St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+  <!-- Hotel 10 -->
+  <Hotel Rating="4.1">
+    <Name>Home2 Suites</Name>
+    <Phone>855-641-2508</Phone>
+    <Address NearestAirport="Phoenix Sky Harbor">
+      <Number>125</Number>
+      <Street>E. Jackson St</Street>
+      <City>Phoenix</City>
+      <State>AZ</State>
+      <Zip>85004</Zip>
+    </Address>
+  </Hotel>
+
+</Hotels>
